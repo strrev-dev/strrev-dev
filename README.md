@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Python, Linux
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Ask me about Problem solving
-- 📫 How to reach me: otakuoriginxeditz@gmail.com
+- 📫 How to reach me: linkedin
 - ⚡ Fun fact: straight forward
 
 ## Skills
