@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on C programming
+- 🔭 I used to of c, c++ ,java , php, mysql programming
 - 🌱 I’m currently learning Python, Linux
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Ask me about Problem solving
