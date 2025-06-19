@@ -11,9 +11,9 @@
 
 ## About Me
 
-- 🔭 I used to of c, c++ ,java , php, mysql programming
+- 🔭 I used to study c, c++ ,java , php, SQL, DBMS, MERN full stack and DSA programming
 - 🌱 I’m currently learning Python, Linux
-- 👯 I’m looking to collaborate on LinkedIn
+- 👯 Aspiring to be a software developement engineer, KIndly connect me on LinkedIn
 - 💬 Ask me about Problem solving
 - 📫 How to reach me: linkedin
 - ⚡ Fun fact: straight forward
