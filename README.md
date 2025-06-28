@@ -11,8 +11,8 @@
 
 ## About Me
 
-- 🔭 I used to study c, c++ ,java , php, SQL, DBMS, MERN full stack and DSA programming
-- 🌱 I’m currently learning Python, Linux
+- 🔭 I used to study c,java , SQL, DBMS and DSA in C.
+- 🌱 I’m currently learning MERN full stack and DSA in jAVA
 - 👯 Aspiring to be a software developement engineer, KIndly connect me on LinkedIn
 - 💬 Ask me about Problem solving
 - 📫 How to reach me: linkedin
