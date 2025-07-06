@@ -14,7 +14,6 @@
 - 🔭 I used to study c,java , SQL, DBMS and DSA in C.
 - 🌱 I’m currently learning MERN full stack and DSA in jAVA
 - 👯 Aspiring to be a software developement engineer, KIndly connect me on LinkedIn
-- 💬 Ask me about Problem solving
 - 📫 How to reach me: linkedin
 - ⚡ Fun fact: straight forward
 
