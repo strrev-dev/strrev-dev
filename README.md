@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 Studied **C, Java, SQL, DBMS & DSA in C**  
-- 🌱 Learning **MERN full-stack** & **DSA in  c++**  
+- 🔭 Studied **html,css,javascript,java,python,sql**  
+- 🌱 Learning **MERN full-stack** & **DSA in  java**  
 - 👯 Aspiring to be a **Software Development Engineer (SDE)**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dev-deepan/)  
 - ⚡ Fun fact: *Straightforward personality 😄*  
