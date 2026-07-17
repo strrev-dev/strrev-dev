@@ -159,11 +159,7 @@ portfolio   : https://your-portfolio-link.com
 
 ⭐ **If you find my work interesting, drop a star on any project — it really helps!** ⭐
 
-<!-- Snake animation — run the GitHub Action below to keep it live -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/strrev-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strrev-dev/strrev-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/strrev-dev/strrev-dev/output/github-snake.svg" />
-</picture>
+<!-- Contribution grid — no setup needed, updates automatically -->
+<img src="https://ghchart.rshah.org/6E57F7/strrev-dev" alt="strrev-dev's Github chart" />
 
 </div>
