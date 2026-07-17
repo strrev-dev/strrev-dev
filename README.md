@@ -119,7 +119,7 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 <!-- Activity graph updates with every commit -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev_dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
