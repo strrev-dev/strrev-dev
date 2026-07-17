@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+DEEPAN+MAURYA+👋;MCA+Graduate+%7C+Full+Stack+Developer;Problem+Solver+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+<!-- Typing Animation — fixed height to show all lines -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+there!+I'm+DEEPAN+MAURYA+👋;MCA+Graduate+%7C+Full+Stack+Developer;Problem+Solver+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+<br/>
 
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=strrev-dev&label=Profile+Views&color=6E57F7&style=flat)
@@ -16,11 +18,10 @@
 ```yaml
 name        : Deepan Maurya
 education   : MCA (Master of Computer Applications) — 2026
-location    : Gurgaon (haryana), India 🇮🇳
+location    : Gurgaon, Haryana, India 🇮🇳
 focus       : Full Stack Development | DSA | Open Source
-currently   : Solving Leetcode and Making Projects
-open_to     : Full-time roles,collaborations
-portfolio   : https://your-portfolio-link.com
+currently   : Solving LeetCode daily & building projects
+open_to     : Full-time roles, collaborations
 ```
 
 ---
@@ -66,18 +67,15 @@ portfolio   : https://your-portfolio-link.com
 
 <div align="center">
 
-<!-- GitHub Stats Card — updates on every commit/push -->
 <img src="https://github-readme-stats.vercel.app/api?username=strrev-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<!-- Top Languages Card -->
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Streak — updates daily, shows current streak & longest streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=strrev-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=strrev-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -87,8 +85,7 @@ portfolio   : https://your-portfolio-link.com
 
 <div align="center">
 
-<!-- Trophy card refreshes automatically as you hit new milestones -->
-<img src="https://github-profile-trophy.vercel.app/?username=strrev-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=strrev-dev&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
@@ -96,29 +93,20 @@ portfolio   : https://your-portfolio-link.com
 
 ## 🧩 LeetCode Stats — Live Synced
 
-> Every time you solve a problem and it reflects on LeetCode, this card auto-updates.
+> Automatically updates every time you solve a problem on LeetCode.
 
 <div align="center">
 
-<!-- LeetCode Stats Card — pulls from LeetCode's public API -->
-<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
-
-<div align="center">
-
-<!-- Alternative LeetCode badge row -->
-![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fstrrev_dev&logo=leetcode&logoColor=yellow)
+<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph — Real-Time
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
-<!-- Activity graph updates with every commit -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
@@ -127,15 +115,15 @@ portfolio   : https://your-portfolio-link.com
 
 ## 📌 Featured Projects
 
+> 🚧 Projects coming soon — currently building. Stay tuned!
+
 <div align="center">
 
-<!-- Replace repo names with your actual repo names -->
-<a href="https://github.com/strrev-dev/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=strrev-dev&repo=strrev-dev&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/strrev-dev/strrev-dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=strrev-dev&repo=strrev-dev&theme=tokyonight&hide_border=true" />
-</a>
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| 🔨 Project 1 | Full stack web application | React, Node.js, MongoDB | `In Progress` |
+| 🔨 Project 2 | DSA solutions & notes | Java, Python | `In Progress` |
+| 🔨 Project 3 | Portfolio website | Next.js, Tailwind | `Planning` |
 
 </div>
 
@@ -146,9 +134,8 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/strrev_dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/strrev_dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepan.quantdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deepan_maurya)
 
 </div>
@@ -157,9 +144,8 @@ portfolio   : https://your-portfolio-link.com
 
 <div align="center">
 
-⭐ **If you find my work interesting, drop a star on any project — it really helps!** ⭐
+⭐ **If you find my work interesting, drop a star on any repo — it really helps!** ⭐
 
-<!-- Contribution grid — no setup needed, updates automatically -->
-<img src="https://ghchart.rshah.org/6E57F7/strrev-dev" alt="strrev-dev's Github chart" />
+<img src="https://ghchart.rshah.org/6E57F7/strrev-dev" alt="Deepan's Github Contribution Chart" />
 
 </div>
