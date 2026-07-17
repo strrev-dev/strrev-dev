@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+YOUR_NAME+👋;MCA+Graduate+%7C+Full+Stack+Developer;Problem+Solver+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=6E57F7&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=strrev-dev&label=Profile+Views&color=6E57F7&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/strrev-dev?label=Followers&style=social)](https://github.com/strrev-dev)
 
 </div>
 
@@ -67,17 +67,17 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 <!-- GitHub Stats Card — updates on every commit/push -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=strrev-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak — updates daily, shows current streak & longest streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=strrev-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -88,7 +88,7 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 <!-- Trophy card refreshes automatically as you hit new milestones -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=strrev-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 
 </div>
 
@@ -101,14 +101,14 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 <!-- LeetCode Stats Card — pulls from LeetCode's public API -->
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
 <div align="center">
 
 <!-- Alternative LeetCode badge row -->
-![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYOUR_LEETCODE_USERNAME&logo=leetcode&logoColor=yellow)
+![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fstrrev_dev&logo=leetcode&logoColor=yellow)
 
 </div>
 
@@ -119,7 +119,7 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 <!-- Activity graph updates with every commit -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev_dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -130,11 +130,11 @@ portfolio   : https://your-portfolio-link.com
 <div align="center">
 
 <!-- Replace repo names with your actual repo names -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/strrev-dev/YOUR_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=strrev-dev&repo=strrev-dev&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/strrev-dev/strrev-dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=strrev-dev&repo=strrev-dev&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -145,11 +145,11 @@ portfolio   : https://your-portfolio-link.com
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/strrev_dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepan.quantdev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deepan_maurya)
 
 </div>
 
@@ -161,9 +161,9 @@ portfolio   : https://your-portfolio-link.com
 
 <!-- Snake animation — run the GitHub Action below to keep it live -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/strrev-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strrev-dev/strrev-dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/strrev-dev/strrev-dev/output/github-snake.svg" />
 </picture>
 
 </div>
