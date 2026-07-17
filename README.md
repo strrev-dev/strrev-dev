@@ -14,12 +14,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Your Full Name
+name        : Deepan Maurya
 education   : MCA (Master of Computer Applications) — 2026
-location    : Your City, India 🇮🇳
+location    : Gurgaon (haryana), India 🇮🇳
 focus       : Full Stack Development | DSA | Open Source
-currently   : Solving LeetCode daily & building cool projects
-open_to     : Full-time roles, internships, collaborations
+currently   : Solving Leetcode and Making Projects
+open_to     : Full-time roles,collaborations
 portfolio   : https://your-portfolio-link.com
 ```
 
