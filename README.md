@@ -1,185 +1,144 @@
-<!--
-  ██████╗ ███████╗███████╗██████╗  █████╗ ███╗   ██╗
-  ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗████╗  ██║
-  ██║  ██║█████╗  █████╗  ██████╔╝███████║██╔██╗ ██║
-  ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██║╚██╗██║
-  ██████╔╝███████╗███████╗██║     ██║  ██║██║ ╚████║
-  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
--->
-
 <div align="center">
 
-<!-- Vagabond-style banner using Musashi quote as ASCII art header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=DEEPAN%20KUMAR%20MAURYA&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=—%20The%20path%20is%20made%20by%20walking%20—&descAlignY=62&descSize=14&descColor=aaaaaa"/>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+there!+I'm+DEEPAN+MAURYA+👋;MCA+Graduate+%7C+Full+Stack+Developer;Problem+Solver+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-<!-- Typing animation — monospace, white on dark -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%7C+MCA+Graduate;DSA+Grinder+%7C+Coder+by+night;Building+in+public+%7C+One+commit+at+a+time)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=strrev-dev&label=PROFILE+VIEWS&color=ffffff&labelColor=000000&style=flat-square)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/strrev-dev?label=FOLLOWERS&style=flat-square&color=ffffff&labelColor=000000&logo=github&logoColor=white)](https://github.com/strrev-dev)
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=strrev-dev&label=Profile+Views&color=6E57F7&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/strrev-dev?label=Followers&style=social)](https://github.com/strrev-dev)
 
 </div>
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="middle">
+## 👨‍💻 About Me
 
-<h1>strrev-dev</h1>
-
-</td>
-<td width="45%" align="right" valign="middle">
-
-<img src="miya%20moto%20mushashi.jpg" width="320" alt="Vagabond - Musashi"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## &nbsp; Arsenal
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-000000?style=flat-square&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## &nbsp; Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=strrev-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" height="175" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=strrev-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&stroke=333333" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## &nbsp; LeetCode — Live
-
-<div align="center">
-
-> *Every problem solved is a sword sharpened.*
-
-<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" alt="LeetCode Stats"/>
-
-</div>
-
----
-
-## &nbsp; Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=strrev-dev&theme=darkhub&no-frame=true&column=7&margin-w=8&no-bg=true" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## &nbsp; Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev-dev&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## &nbsp; Projects
-
-> *Forging the blade — projects in progress.*
-
-| &nbsp; | Project | About | Stack |
-|--------|---------|-------|-------|
-| 🔨 | **Coming Soon** | Full stack web application | React · Node.js · MongoDB |
-| 🔨 | **Coming Soon** | DSA solutions & structured notes | Java · Python |
-| 🔨 | **Portfolio** | Personal site — building next | Next.js · Tailwind |
-
-*Stars on repos once live will be appreciated.*
-
----
-
-## &nbsp; Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepan)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/strrev_dev)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:deepan.quantdev@gmail.com)
-&nbsp;
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/deepan_maurya)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/strrev-dev)
-
-</div>
-
----
-
-<div align="center">
-
-```
-"The only opponent you have to beat is who you were yesterday."
-                                              — Miyamoto Musashi
+```yaml
+name        : Deepan Maurya
+education   : MCA (Master of Computer Applications) — 2026
+location    : Gurgaon (haryana), India 🇮🇳
+focus       : Full Stack Development | DSA | Open Source
+currently   : Solving Leetcode and Making Projects
+open_to     : Full-time roles, collaborations
 ```
 
-<img src="https://ghchart.rshah.org/ffffff/strrev-dev" alt="Deepan's Contribution Chart"/>
+---
 
-<br/>
+## 🚀 Tech Stack
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer"/>
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats — Live Updated
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=strrev-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=strrev-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies — Auto-Updated
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=strrev-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats — Live Synced
+
+> Every time you solve a problem and it reflects on LeetCode, this card auto-updates.
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fstrrev_dev&logo=leetcode&logoColor=yellow)
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph — Real-Time
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 Projects coming soon — currently building. Stay tuned!
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/strrev_dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepan.quantdev@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deepan_maurya)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you find my work interesting, drop a star on any project — it really helps!** ⭐
+
+<img src="https://ghchart.rshah.org/6E57F7/strrev-dev" alt="strrev-dev's Github chart" />
 
 </div>
