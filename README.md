@@ -75,19 +75,40 @@
 
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" valign="top">
+
+**`{ Languages }`**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark&perline=5" />
 
-<br/><br/>
+</td>
+<td align="center" valign="top">
 
+**`{ Frontend }`**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
+**`{ Backend & DB }`**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" />
 
-<br/><br/>
+</td>
+<td align="center" valign="top">
 
+**`{ Tools }`**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman&theme=dark&perline=5" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
