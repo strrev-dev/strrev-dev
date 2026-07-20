@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=strrev-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=strrev-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170" alt="GitHub Streak"/>
 
 </div>
 
