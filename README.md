@@ -61,28 +61,19 @@ open_to     : Full-time roles, collaborations
 
 ---
 
-## 📊 GitHub Stats — Live Updated
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=strrev-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
+<!-- Streak — demolab is reliable and free -->
 <img src="https://streak-stats.demolab.com?user=strrev-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies — Auto-Updated
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=strrev-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+<!-- Top langs — using a self-hosted alternative that works -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
