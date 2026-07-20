@@ -1,80 +1,103 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi+%F0%9F%91%8B+I'm+Deepan+Maurya;Full+Stack+Developer+%7C+MERN+Enthusiast;Problem+Solver+%7C+Open+to+SDE+Roles)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Deepan%20Maurya&fontSize=60&fontColor=58a6ff&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA&descSize=18&descColor=8b949e&descAlignY=75&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications...;Grinding+DSA+every+single+day...;Open+to+SDE+opportunities+%F0%9F%9A%80;Have+confidence+in+the+air+around+you+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://linkedin.com/in/dev-deepan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/deepan_maurya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://leetcode.com/strrev_dev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:deepan.quantdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=strrev-dev&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/strrev_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepan_maurya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepan.quantdev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strrev-dev)
+
+<img src="https://komarev.com/ghpvc/?username=strrev-dev&label=Profile+Views&color=58a6ff&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header" width="100%"/>
 
-```typescript
-const deepan: Developer = {
-  education  : "MCA — Master of Computer Applications (2026)",
-  role       : "Full Stack Developer",
-  status     : "Actively seeking SDE opportunities",
-  stack      : ["MERN", "Java", "DSA", "REST APIs"],
-  experience : ["Chegg Subject Matter Expert", "SIC Hackathon"],
-  philosophy : "Continuous learning & building scalable solutions",
-  inspired   : "Vagabond — Have confidence in the very air that surrounds you"
-};
-```
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td width="58%" valign="top">
+
+### ◈ &nbsp; Who am I
+
+<br/>
+
+> 🎓 &nbsp; **MCA Graduate** — Master of Computer Applications
+>
+> 📍 &nbsp; Gurgaon, Haryana, India
+>
+> 💼 &nbsp; Ex **Chegg Subject Matter Expert**
+>
+> ⚔️ &nbsp; Participated in **SIC Hackathon**
+>
+> 🔭 &nbsp; Currently building **MERN projects** & sharpening **DSA**
+>
+> 🎯 &nbsp; Actively seeking **Full-time SDE roles**
+>
+> 🌱 &nbsp; Learning **System Design** & **Scalability**
+>
+> ⚡ &nbsp; Inspired by **Vagabond** — *"The path is made by walking"*
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="miya%20moto%20mushashi.jpg" width="300" style="border-radius:12px;" alt="Vagabond Musashi"/>
+
+<br/>
+
+> *"Have confidence in the very air that surrounds you. Expand yourself out."*
+>
+> — Miyamoto Musashi
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=3" width="100%"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ &nbsp; Tech Arsenal
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark&perline=5" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br/><br/>
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/><br/>
 
-**Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/>
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman&theme=dark&perline=5" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=strrev-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=strrev-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170" alt="GitHub Streak"/>
 
 </div>
 
@@ -86,42 +109,76 @@ const deepan: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strrev-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 &nbsp; LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/strrev_dev?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
 
 </div>
 
 ---
 
-## 🚀 Projects
-
-> 🚧 Building in public — projects dropping soon.
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🎵 Spotify Clone | MERN Stack | `In Progress` |
-| �️ Mini Project Collection | MERN · REST APIs | `Active` |
-| 💼 Portfolio Site | Next.js · Tailwind | `Planning` |
-
----
-
-## 📫 Connect
+## 🚀 &nbsp; Projects
 
 <div align="center">
 
-*Open to full-time SDE roles, collaborations, and freelance projects.*
+<table border="0" cellspacing="10" cellpadding="16">
+<tr>
+<td align="center" width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepan)
-[![Email](https://img.shields.io/badge/Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepan.quantdev@gmail.com)
+**🎵 Spotify Clone**
+
+A full-featured music streaming app
+
+`MongoDB` `Express` `React` `Node.js`
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**🛠️ Mini Project Collection**
+
+Diverse problem-solving showcases
+
+`MERN Stack` `REST APIs` `Clean Code`
+
+![Status](https://img.shields.io/badge/Status-Active-58a6ff?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**💼 Portfolio Website**
+
+Personal dev portfolio
+
+`Next.js` `Tailwind CSS` `Framer Motion`
+
+![Status](https://img.shields.io/badge/Status-Planning-8b949e?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+**📚 DSA Solutions**
+
+Structured LeetCode & DSA notes
+
+`Java` `Python` `Problem Solving`
+
+![Status](https://img.shields.io/badge/Status-Active-58a6ff?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -129,9 +186,6 @@ const deepan: Developer = {
 
 <div align="center">
 
-*"Have confidence in the very air that surrounds you. Expand yourself out."*
-— Miyamoto Musashi · Vagabond
-
-<img src="https://ghchart.rshah.org/58a6ff/strrev-dev" alt="Deepan's Contribution Chart"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer&text=Let%27s%20build%20something%20great&fontSize=18&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
