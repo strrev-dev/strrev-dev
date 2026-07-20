@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strrev-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
