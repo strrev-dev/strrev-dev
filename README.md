@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="github-stats.svg" alt="Top Languages"/>
+<img src="github-stats.svg" width="495" alt="Top Languages"/>
 
 </div>
 
